@@ -1,6 +1,6 @@
 # Cheikhany TOLBA
 **Étudiant · Technicien spécialisé en développement informatique**  
-📍 Casablanca, Maroc · ✉️ cheikhanytlb99@gmail.com · [GitHub](https://github.com/TelbaCheikhany)
+📍 Marrakech, Maroc · ✉️ cheikhanytlb99@gmail.com · [GitHub](https://github.com/TelbaCheikhany)
 
 ---
 
