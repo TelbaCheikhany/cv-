@@ -11,11 +11,11 @@
 ---
 
 ## 💼 Expérience
-### Stage d’été – SNIM (été 2024)
-- Développement d’un module de gestion de stockage avec **Spring** (backend) et **Angular** (frontend).
+### Stage d’été – SNIM (été 2024)  
+- Développement d’un module de **gestion de stock** avec **Spring** (backend) et **Angular** (frontend).
 
-### Stage PFE Technicien specialisé– SNIM (2024–2025)
-- Poursuite du même projet : optimisation de la gestion de stockage, travail en équipe, tests unitaires.
+### Stage PFE – SNIM (2024–2025)  
+- Suite et optimisation du même projet de gestion de stock : amélioration des fonctionnalités, mise en place de tests, collaboration avec l’équipe technique.
 
 ---
 
